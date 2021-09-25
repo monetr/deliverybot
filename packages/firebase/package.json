@@ -22,7 +22,7 @@
     "firebase-tools": "7.2.4",
     "typescript": "3.7.2",
     "webpack": "4.41.5",
-    "webpack-cli": "3.3.10"
+    "webpack-cli": "3.3.12"
   },
   "description": "Controls and configures deployments using the GitHub API.",
   "author": "Deliverybot <support@deliverybot.dev> (https://github.com/deliverybot/deliverybot)",
