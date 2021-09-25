@@ -908,10 +908,10 @@
   resolved "https://registry.yarnpkg.com/@types/cache-manager/-/cache-manager-2.10.0.tgz#48ed0a0ace70ad59c4165235e344a682c0981fa6"
   integrity sha512-og4E9Mw/FsBz0A3NZbHrVmx49PW4hKnGvTmulWk8OgROJm9ti4n9x0inxsd6jJiaFMol4+MyMdB1l2aexxmrYw==
 
-"@types/client-sessions@0.8.0":
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/@types/client-sessions/-/client-sessions-0.8.0.tgz#2ef59fe90d7ee8be8d6a74d2b8f271c7f360910e"
-  integrity sha512-IMhQgvBjhiw8b6t3xefO/vuLTZOiRanuolj88+yiYuXlFOqTxVao6RVUGr5DLvD0ieRnueK8H287iqiADe2Ssw==
+"@types/client-sessions@0.8.3":
+  version "0.8.3"
+  resolved "https://registry.yarnpkg.com/@types/client-sessions/-/client-sessions-0.8.3.tgz#36d9fdfc0163a027d400e191b6bad512fcc4610f"
+  integrity sha512-PCkcXtVDZI21FirzxIqkawwLGm5bjA280fG9KKaWFNUTLTWIgeIXhd/piAu/Pjc2JEyeNJlZmFCEFuOKTGOu1g==
   dependencies:
     "@types/cookies" "*"
     "@types/node" "*"
