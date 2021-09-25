@@ -18,7 +18,7 @@
     "firebase-functions": "3.2.0"
   },
   "devDependencies": {
-    "firebase": "7.3.0",
+    "firebase": "7.24.0",
     "firebase-tools": "7.2.4",
     "typescript": "3.7.2",
     "webpack": "4.41.5",
