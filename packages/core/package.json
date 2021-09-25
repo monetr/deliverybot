@@ -40,7 +40,7 @@
     "jest": "24.9.0",
     "supertest": "4.0.2",
     "ts-jest": "24.1.0",
-    "typescript": "3.7.2"
+    "typescript": "3.9.10"
   },
   "description": "Controls and configures deployments using the GitHub API.",
   "author": "Deliverybot <support@deliverybot.dev> (https://github.com/deliverybot/deliverybot)",
