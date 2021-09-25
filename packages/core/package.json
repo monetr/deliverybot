@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@types/bunyan": "1.8.6",
-    "@types/bunyan-format": "0.2.0",
+    "@types/bunyan-format": "0.2.4",
     "@types/cache-manager": "2.10.0",
     "@types/client-sessions": "0.8.0",
     "@types/supertest": "2.0.8",

@@ -881,10 +881,10 @@
     "@types/connect" "*"
     "@types/node" "*"
 
-"@types/bunyan-format@0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@types/bunyan-format/-/bunyan-format-0.2.0.tgz#de79bf9fe67ea0dcf5416c5f1acc46abb0bb68d8"
-  integrity sha512-e87MeYM9rZUaQ7UgNU5webttfTlJWhc8oFU/hQBe/GGcf3bspY4ajVHqF1YgbysXnCwZDZgAq1FEe8ufFZZsLw==
+"@types/bunyan-format@0.2.4":
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/@types/bunyan-format/-/bunyan-format-0.2.4.tgz#0ebb4425a77b5cfa1d201de80fb7a9cbff8c4659"
+  integrity sha512-W9+rHmJITz9NHi6Gtm66aVrsKrACPyUhjt/H87B/hi6nm7n8m3Or2ubDcEUdbDyd1aQQcWhwWQ87wgs4dZ/5tw==
   dependencies:
     "@types/node" "*"
 
