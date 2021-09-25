@@ -43,7 +43,7 @@
     "nock": "11.5.0",
     "supertest": "4.0.2",
     "ts-jest": "24.1.0",
-    "typescript": "3.7.2",
+    "typescript": "3.9.10",
     "walk": "2.3.14"
   },
   "description": "Controls and configures deployments using the GitHub API.",
