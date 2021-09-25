@@ -1036,7 +1036,7 @@
   resolved "https://registry.yarnpkg.com/@types/js-yaml/-/js-yaml-3.12.1.tgz#5c6f4a1eabca84792fbd916f0cb40847f123c656"
   integrity sha512-SGGAhXLHDx+PK4YLNcNGa6goPf9XRWQNAUUbffkwVGGXIxmDKWyGGL4inzq2sPmExu431Ekb9aEMn9BkPqEYFA==
 
-"@types/jsonschema@^1.1.1":
+"@types/jsonschema@1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@types/jsonschema/-/jsonschema-1.1.1.tgz#08703dfe074010e8e829123111594af731f57b1a"
   integrity sha1-CHA9/gdAEOjoKRIxEVlK9zH1exo=
@@ -1075,7 +1075,7 @@
   resolved "https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.0.tgz#69a23a3ad29caf0097f06eda59b361ee2f0639f6"
   integrity sha1-aaI6OtKcrwCX8G7aWbNh7i8GOfY=
 
-"@types/mustache@^4.0.0":
+"@types/mustache@4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@types/mustache/-/mustache-4.0.0.tgz#8db01fdff5210646a9d8819ad2aca0ccb5fef12a"
   integrity sha512-AVBOcLJenbpCIJcHUvGWj+YMlaiwcFlGK1YEH2mePXkB5B/vQLrFkHG9IpBH71mXnkbibc4V8Nnn1wJSxcgCEA==
@@ -3097,7 +3097,7 @@ csrf@3.1.0:
     tsscmp "1.0.6"
     uid-safe "2.1.5"
 
-css-loader@^3.4.2:
+css-loader@3.4.2:
   version "3.4.2"
   resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-3.4.2.tgz#d3fdb3358b43f233b78501c5ed7b1c6da6133202"
   integrity sha512-jYq4zdZT0oS0Iykt+fqnzVLRIeiPWhka+7BqPn+oSIpWJAHak5tmB/WZrJ2a21JhCeFyNnnlroSl8c+MtVndzA==
@@ -5022,7 +5022,7 @@ html-minifier@^3.2.3:
     relateurl "0.2.x"
     uglify-js "3.4.x"
 
-html-webpack-plugin@^3.2.0:
+html-webpack-plugin@3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/html-webpack-plugin/-/html-webpack-plugin-3.2.0.tgz#b01abbd723acaaa7b37b6af4492ebda03d9dd37b"
   integrity sha1-sBq71yOsqqeze2r0SS69oD2d03s=
@@ -6978,7 +6978,7 @@ min-indent@^1.0.0:
   resolved "https://registry.yarnpkg.com/min-indent/-/min-indent-1.0.1.tgz#a63f681673b30571fbe8bc25686ae746eefa9869"
   integrity sha512-I9jwMn07Sy/IwOj3zVkVik2JTvgpaykDZEigL6Rx6N9LbMywwUSMtxET+7lVoDLLd3O3IXwJwvuuns8UB/HeAg==
 
-mini-css-extract-plugin@^0.9.0:
+mini-css-extract-plugin@0.9.0:
   version "0.9.0"
   resolved "https://registry.yarnpkg.com/mini-css-extract-plugin/-/mini-css-extract-plugin-0.9.0.tgz#47f2cf07aa165ab35733b1fc97d4c46c0564339e"
   integrity sha512-lp3GeY7ygcgAmVIcRPBVhIkf8Us7FZjA+ILpal44qLdSu11wmjKQ3d9k15lfD7pO4esu9eUIAW7qiYIBppv40A==
@@ -9081,7 +9081,7 @@ slide@^1.1.5:
   resolved "https://registry.yarnpkg.com/slide/-/slide-1.1.6.tgz#56eb027d65b4d2dce6cb2e2d32c4d4afc9e1d707"
   integrity sha1-VusCfWW00tzmyy4tMsTUr8nh1wc=
 
-smee-client@^1.1.0:
+smee-client@1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/smee-client/-/smee-client-1.1.0.tgz#9dc7fd90e4cb6d36dee7501de0404209d445bb89"
   integrity sha512-5NM7K2qQnglGSIN7A6ndk/ku1Vocnz1k2EzD7IPeE2UTWBufl7vWk/AMP4oKMya5W2c6M8NC3DNHs1Wce9fWUg==
@@ -10386,7 +10386,7 @@ w3c-hr-time@^1.0.1:
   dependencies:
     browser-process-hrtime "^0.1.2"
 
-walk@2.3.14, walk@^2.3.14:
+walk@2.3.14:
   version "2.3.14"
   resolved "https://registry.yarnpkg.com/walk/-/walk-2.3.14.tgz#60ec8631cfd23276ae1e7363ce11d626452e1ef3"
   integrity sha512-5skcWAUmySj6hkBdH6B6+3ddMjVQYH5Qy9QGbPmN8kVmLteXk+yVXg+yfk1nbX30EYakahLrr8iPcCxJQSCBeg==
