@@ -28,7 +28,7 @@
     "jest": "24.9.0",
     "nock": "11.5.0",
     "supertest": "4.0.2",
-    "ts-jest": "24.1.0",
+    "ts-jest": "24.3.0",
     "typescript": "3.7.2"
   },
   "description": "Controls and configures deployments using the GitHub API.",
