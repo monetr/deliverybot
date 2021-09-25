@@ -38,7 +38,7 @@
     "@types/uuid": "3.4.5",
     "@types/express": "4.17.1",
     "@types/csurf": "1.9.36",
-    "@types/jest": "25.1.2",
+    "@types/jest": "25.2.3",
     "jest": "24.9.0",
     "nock": "11.5.0",
     "supertest": "4.0.2",
