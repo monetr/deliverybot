@@ -16,7 +16,7 @@
     "@octokit/app": "4.1.0",
     "@octokit/rest": "16.33.1",
     "@octokit/webhooks": "6.3.2",
-    "bunyan": "1.8.12",
+    "bunyan": "1.8.15",
     "bunyan-format": "0.2.1",
     "cache-manager": "2.10.0",
     "client-sessions": "0.8.0",
@@ -29,7 +29,7 @@
     "turbolinks-express": "1.0.0"
   },
   "devDependencies": {
-    "@types/bunyan": "1.8.6",
+    "@types/bunyan": "1.8.8",
     "@types/bunyan-format": "0.2.0",
     "@types/cache-manager": "2.10.0",
     "@types/client-sessions": "0.8.0",
